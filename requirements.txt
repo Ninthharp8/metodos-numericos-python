@@ -1,0 +1,11 @@
+matplotlib
+numpy
+sympy
+pandas
+math 
+decimal
+csv   
+plotly
+tkinter
+Fraction
+nbformat
